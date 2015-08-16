@@ -14,6 +14,6 @@ JAVA TTS is not hard. Protocols can be found everywhere.
 Challenging:
 At the beginning, for some reason, when clicking the Voice Mode button, the user interface will freeze and wait the Sphinx to finish the whole speech recognition till I said "equal" which means stop the recognition and come out the result.(The period is quite long, normally need 5-6 mins, because Sphinx cannot always recognize the digits and operator precisely even though I abbridged the dict into a mini that only contained the operators and digits I need.) That time I thought extra thread might help solve the problem and it turned out it's. Then how to transfer the words Sphinx recognized into the textfield in the calculator. I had to write the Sphinx result into a voice text file and share it with main program and keep the file updated in real time. Way too Complex...
 
-From Github, someone shared the initialize the recognizer and microphone everytime so don't have to write into files.
+From Github, someone shared to initialize the recognizer and microphone everytime so don't have to write recognized word into files. 
 So if you have any questions and better ideas, please share with me. Thanks.
 
