@@ -1,0 +1,11 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Hello World example
+ */
+
+grammar hello;
+
+public <digits> = (one|two|three|four|five|six|seven|eight|nine|zero|clear|minus|add|power|equal|backspace|close|thank-you|brace|right-brace|left-brace|yes|no|start|Thank-you);
+
+
