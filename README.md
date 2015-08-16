@@ -1,5 +1,6 @@
 # Sphnix_TTS_JAVA__Calculator
 Basic Calculator with Voice recognition and TTS functions
+You can check two videos first if you think it is too wordy.
 This is the first JAVA project I did in an Interface Design class in Spring 2014. Stduents are required to use any language to design a calculator with functions such as: 
 1. operators and digits +,-, *, ^, (, ), 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 (no /)
 2. can do backspace, clear and quit
@@ -16,4 +17,6 @@ At the beginning, for some reason, when clicking the Voice Mode button, the user
 
 From Github, someone shared to initialize the recognizer and microphone everytime so don't have to write recognized word into files. 
 So if you have any questions and better ideas, please share with me. Thanks.
+
+Rao
 
